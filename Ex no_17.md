@@ -13,7 +13,7 @@ To write a C Program to compare two strings without using strcmp().
 7. End.
 
 ## Program:
-```c program
+```c program 
 #include <stdio.h>
 int main() {
  char str1[100], str2[100];
